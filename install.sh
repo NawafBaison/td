@@ -26,7 +26,7 @@ make bootstrap &>/dev/null
 
 cd .. 
 
-rm -rf luarocks-2.2.2*
+rm -rf luarocks*
 
 wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux 2>&1 
 
