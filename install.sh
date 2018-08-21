@@ -35,6 +35,6 @@ mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
 mkdir $HOME/.telegram-bot; cat <<EOF > $HOME/.telegram-bot/config
 default_profile = "main";
 main = {
-  lua_script = "$HOME/DBTeamV3/bot/bot.lua";
+  lua_script = "$HOME/td/keko.lua";
 };
 EOF
