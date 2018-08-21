@@ -14,19 +14,33 @@ sudo apt-get install libconfig++9v5 libstdc++6 -y
 
 sudo apt autoremove -y
 
-wget http://luarocks.org/releases/luarocks-2.4.2.tar.gz &>/dev/null
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes
 
-tar zxpf luarocks-2.4.2.tar.gz &>/dev/null
+wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 
-cd luarocks-2.4.2
+tar zxpf luarocks-2.2.2.tar.gz
 
-./configure --prefix=$PWD/.luarocks --sysconfdir=$PWD/.luarocks/luarocks --force-config &>/dev/null 
-  
-make bootstrap &>/dev/null
+cd luarocks-2.2.2
 
-cd .. 
+./configure; sudo make bootstrap
 
-rm -rf luarocks*
+sudo luarocks install luasocket
+
+sudo luarocks install luasec
+
+sudo luarocks install redis-lua
+
+sudo luarocks install ansicolors
+
+sudo luarocks install serpent
+
+cd ..
+
+sudo apt-get install curl -y
+
+rm -fr luarocks-2.2.2.tar.gz
+
+rm -fr install.sh
 
 wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux 2>&1 
 
@@ -38,3 +52,6 @@ main = {
   lua_script = "$HOME/td/keko.lua";
 };
 EOF
+chmod +x run
+
+
