@@ -1,5 +1,5 @@
 #!/bin/bash
 while(true) do
-./telegram-bot | grep -v "{"
+./telegram-bot 
 done
 
