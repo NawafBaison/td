@@ -1,6 +1,0 @@
-token = '658892511:AAGDL_qnrGyf4X4xHpL5YKjh2-XaED-J-e4' 
-sudos = {
-  439144684,
-  456141809,
-  112854381,
-}
