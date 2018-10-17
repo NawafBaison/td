@@ -61,7 +61,7 @@ wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly
 
 mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
 
-chmod +x run
+chmod +x *
 
 echo "$(tput setaf 2)End install $(tput sgr 0)"
 
