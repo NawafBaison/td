@@ -42,6 +42,8 @@ sudo luarocks install luasocket
 
 sudo luarocks install luasec
 
+sudo apt-get install shc
+
 sudo luarocks install redis-lua
 
 sudo luarocks install ansicolors
