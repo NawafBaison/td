@@ -1,3 +1,17 @@
+echo "$(tput setaf 2)Keko source Install $(tput sgr 0)"
+echo "┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│ m    m        #                                                             │
+│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │
+│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │
+│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │
+│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │
+│                                                                             │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘"
+echo "$(tput setaf 2)By : t.me/ikeko $(tput sgr 0)"
+
+
 sudo apt-get update 
 
 sudo apt-get upgrade -y 
@@ -46,12 +60,7 @@ wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly
 
 mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
 
-mkdir $HOME/.telegram-bot; cat <<EOF > $HOME/.telegram-bot/config
-default_profile = "main";
-main = {
-  lua_script = "$HOME/td/keko.lua";
-};
-EOF
 chmod +x run
 
+echo "$(tput setaf 2)End install $(tput sgr 0)"
 
