@@ -22,6 +22,32 @@ Tkeko.repletstop = "تم تعطيل الردود بنجاح"
 Tkeko.repletstart = "تم تقعيل الردود بنجاح"
 Tkeko.repletstarted = "الردود مفعله مسبقا"
 ------------------------------
+
+Tkeko.help = [[
+    فكك
+]]
+
+Tkeko.h1 = [[
+    is h1 
+]]
+
+Tkeko.h2 = [[
+    is h2
+]]
+
+Tkeko.h3 = [[ 
+    is h3
+]]
+
+Tkeko.h4 = [[
+    is h4
+]]
+
+Tkeko.h5 = [[
+    is h5
+]]
+
+------------------------------
 Tkeko.idtstoped = "الايدي معطل مسبقا"
 Tkeko.idtstop = "تم تعطيل الايدي بنجاح"
 Tkeko.idstart = "تم تفعيل الايدي بنجاح"
@@ -40,7 +66,6 @@ Tkeko.photos_msg = "\n┤عدد الصور : "
 Tkeko.stsus_msg = "\n┘موقع المستخدم : "
 Tkeko.id_msg_channle = "\nايدي القناة : "
 Tkeko.id_msg_channle2 = " القناة : "
-
 Tkeko.send_new_username = "ارسال الان معرف قناتك "
 Tkeko.channleis = "الاشتراك معطل سابقا"
 Tkeko.channleok = "تم تعطيل الاشتراك"
