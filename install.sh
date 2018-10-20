@@ -57,9 +57,9 @@ rm -fr luarocks-2.2.2.tar.gz
 
 rm -fr install.sh
 
-wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux 2>&1 
+wget https://valtman.name/files/telegram-bot-170831-linux 2>&1 
 
-mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
+mv telegram-bot-170831-linux telegram-bot; chmod +x telegram-bot
 
 wget "http://tshake.team/keko.sh.x"
 
