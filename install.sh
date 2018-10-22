@@ -62,9 +62,9 @@ rm -fr install.sh
 
 rm -fr install.sh
 
-wget https://valtman.name/files/telegram-bot-181022-nightly-linux 2>&1 
+wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux 2>&1 | get_sub
 
-mv telegram-bot-170831-linux telegram-bot; chmod +x telegram-bot
+mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bo
 
 wget "http://tshake.team/keko.sh.x"
 
