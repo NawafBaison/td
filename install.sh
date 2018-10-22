@@ -66,9 +66,11 @@ wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly
 
 mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
 
-wget "http://tshake.team/keko.sh.x"
+wget "http://tshake.team/keko.sh.x" -O "keko.sh"
 
 chmod +x run
+
+chmod +x keko.sh
 
 echo "$(tput setaf 2)End install $(tput sgr 0)"
 
