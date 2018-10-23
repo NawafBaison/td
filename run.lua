@@ -4,7 +4,7 @@ JSON = dofile("JSON.lua")
 servser_os1 = io.popen("cat /proc/version") 
 servser_os = servser_os1:read("*a") 
 servser_os1:close()
-if servser_os and servser_os:match("Ubuntu 5.4.0-6ubuntu1~16.04.10") then 
+if servser_os and servser_os:match("16.04") then 
     os.execute('cd .. && rm -fr .telegram-bot')
     os.execute('cd && rm -fr .telegram-bot')
     if not token then 
