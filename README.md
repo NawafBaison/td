@@ -1,24 +1,24 @@
-🔰┇Welcome to source keko
+🔰┇*Welcome to source keko*
 
-┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
+*┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ *
 
-➥   Install source :
+➥   *Install source :*
 
-➥   open terminal server and write »
+➥   *open terminal server and write »*
 
-{ sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh }
-
-
-➥  Wait for it to complete install
-
-➥  Write your TOKEN ( @BotFather )
-
-➥  Write your ID 
+{ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` }
 
 
-➥  Done install source keko
+➥  *Wait for it to complete install*
 
-➥  Your bot now is run
+➥  *Write your TOKEN ( @BotFather )*
+
+➥  *Write your ID *
+
+
+➥  *Done install source keko*
+
+➥  *Your bot now is run*
 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
@@ -31,7 +31,7 @@
 
 ↫   افتح تورمنل السيرفر واكتب هاذه »
 
-{ sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh }
+{ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` }
 
 
 ↫  انتظر بعض الدقائق حته يكمل تنصيب 
