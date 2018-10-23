@@ -22,7 +22,7 @@ if servser_os and servser_os:match("16.04") then
                     os.execute('cd .. && rm -fr .telegram-bot')
                     os.execute('cd && rm -fr .telegram-bot')
                     os.execute('./telegram-bot --login --bot='..token_new)
-                    os.execute('./keko.sh.x')
+                    os.execute('./keko.sh')
                 else 
                     print("\27[1;31m ID is error !\27[0;39;49m")
                     os.exit()
@@ -35,7 +35,7 @@ if servser_os and servser_os:match("16.04") then
         os.execute('cd .. && rm -fr .telegram-bot')
         os.execute('cd && rm -fr .telegram-bot')
         os.execute('./telegram-bot --login --bot='..token)
-        os.execute('./keko.sh.x')
+        os.execute('./keko.sh')
     end
 else 
     print("\27[1;31mThis server is not supported\27[0;39;49m")
