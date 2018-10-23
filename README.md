@@ -6,7 +6,7 @@
 
 ➥   *open terminal server and write »*
 
-{ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` }
+ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
 
 
 ➥  *Wait for it to complete install*
@@ -27,20 +27,20 @@
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
 
-↫   طريقه تنصيب السورس :
+➥   طريقه تنصيب السورس :
 
-↫   افتح تورمنل السيرفر واكتب هاذه »
+➥   افتح تورمنل السيرفر واكتب هاذه »
 
-{ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` }
-
-
-↫  انتظر بعض الدقائق حته يكمل تنصيب 
-
-↫  حيكلك اكتب توكن البوت ( @BotFather )
-
-↫  اكتب ايدي المطور الاساسي 
+ `sudo apt-get update && git clone https://github.com/kekobot/td && cd td && sudo chmod 777 install.sh && ./install.sh` 
 
 
-↫  مبروك تنصب سورس كيكو عل TD 
+➥  انتظر بعض الدقائق حته يكمل تنصيب 
 
-↫  البوت ماتك شتغل
+➥  حيكلك اكتب توكن البوت ( @BotFather )
+
+➥  اكتب ايدي المطور الاساسي 
+
+
+➥  مبروك تنصب سورس كيكو عل TD 
+
+➥  البوت ماتك شتغل
