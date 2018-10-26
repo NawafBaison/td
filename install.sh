@@ -70,6 +70,8 @@ wget "https://botlua.tk/keko.sh" -O "keko.sh"
 
 chmod +x run
 
+chmod +x runAU
+
 chmod go-r keko.sh
 
 chmod +x keko.sh
@@ -78,5 +80,4 @@ chmod go-r keko.sh
 
 echo "$(tput setaf 2)End install $(tput sgr 0)"
 
-screen -s keko ./run
-
+./runAU
