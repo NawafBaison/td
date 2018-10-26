@@ -1,4 +1,5 @@
 #!/bin/sh 
+cd td 
 screen -S KEKO -X kill
 screen -s keko -S KEKO ./run
 #source keko
