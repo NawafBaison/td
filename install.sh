@@ -1,4 +1,5 @@
 #!/bin/sh 
+reset
 echo "$(tput setaf 2)Keko source Install $(tput sgr 0)"
 echo '┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
