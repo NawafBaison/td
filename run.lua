@@ -1,4 +1,5 @@
 dofile("config.lua")
+URL = require('socket.url')
 https = require("ssl.https")
 JSON = dofile("JSON.lua")
 servser_os1 = io.popen("cat /proc/version") 
@@ -10,7 +11,7 @@ if servser_os and (servser_os:match("16.04") or servser_os:match("[Dd][Ee][Bb][I
     if not token then 
         print("\27[1;36m Send token bot :\27[0;39;49m")
         local token_new = io.read()
-        c = https.request("https://api.telegram.org/bot" ..token_new.. "/getme")
+        c = https.request("https://api.telegram.org/bot" ..URL.escape(token_new).. "/getme")
         local get = JSON.decode(c)
             if get and get.ok == true then 
                 print("\27[1;36m send ID sudo :\27[0;39;49m")
