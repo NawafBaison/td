@@ -24,7 +24,7 @@ Tkeko.repletstarted = "🔊┋الردود مفعله مسبقا"
 Tkeko.leave = "🔖┋تم مغادره المجموعه"
 Tkeko.donelift = "🔖┋تم مغادره المجموعه : "
 -----------------Update-------------------------
-Tkeko.setchacccc = "🔄┋تم تحديث الترحيب المجموعه بنجاح"
+Tkeko.setchacccc = "🔄┋تم تحديث ترحيب المجموعه بنجاح"
 Tkeko.setchaccccisyes = "🔖┋الترحيب مفعل مسبقا"
 Tkeko.setchaccccyes = "📩┋تم اتفعيل الترحيب"
 Tkeko.setchaccccisnoyes = "🔖┋الترحيب معطل مسبقا"
