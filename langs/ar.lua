@@ -26,7 +26,7 @@ Tkeko.donelift = "🔖┋تم مغادره المجموعه : "
 -----------------Update-------------------------
 Tkeko.setchacccc = "🔄┋تم تحديث ترحيب المجموعه بنجاح"
 Tkeko.setchaccccisyes = "🔖┋الترحيب مفعل مسبقا"
-Tkeko.setchaccccyes = "📩┋تم اتفعيل الترحيب"
+Tkeko.setchaccccyes = "📩┋تم تفعيل الترحيب"
 Tkeko.setchaccccisnoyes = "🔖┋الترحيب معطل مسبقا"
 Tkeko.setchaccccnoyes = "🚫┋تم تعطيل الترحيب"
 
