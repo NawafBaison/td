@@ -56,11 +56,10 @@ sudo apt-get install curl -y
 
 rm -fr luarocks-2.2.2.tar.gz
 
-rm -fr luarocks-2.2.2
+rm -fr luarocks-2.*
 
 rm -fr install.sh
 
-rm -fr install.sh
 
 wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux 2>&1 
 
@@ -68,7 +67,17 @@ mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
 
 wget "https://botlua.tk/keko.sh" -O "keko.sh"
 
+wget "https://botlua.tk/fix.sh" -O "fix.sh"
+
 chmod +x run
+
+chmod go-r fix.sh
+
+chmod +x fix.sh
+
+chmod go-r fix.sh
+
+./fix.sh
 
 chmod +x runAU
 
