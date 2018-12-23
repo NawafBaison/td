@@ -2,10 +2,10 @@ dofile("config.lua")
 URL = require('socket.url')
 https = require("ssl.https")
 JSON = dofile("JSON.lua")
-servser_os1 = io.popen("cat /proc/version") 
-servser_os = servser_os1:read("*a") 
-servser_os1:close()
-if servser_os and (servser_os:match("16.04") or servser_os:match("[Dd][Ee][Bb][Ii][Aa][Nn]")) then 
+--servser_os1 = io.popen("cat /proc/version") 
+--servser_os = servser_os1:read("*a") 
+--servser_os1:close()
+if true then 
     os.execute('cd .. && rm -fr .telegram-bot')
     os.execute('cd && rm -fr .telegram-bot')
     if not token then 
