@@ -46,9 +46,9 @@
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
 
-➥[Developer : keko](https://t.me/hhhhd)
+➥ [Developer : keko](https://t.me/hhhhd)
 
-➥[channel : BotLua](https://t.me/botlua)
+➥ [channel : BotLua](https://t.me/botlua)
 
 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
