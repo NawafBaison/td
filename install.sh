@@ -1,9 +1,7 @@
 #!/bin/bash
-sudo apt-get -f install
+sudo apt-get -f install -y --qq
 echo "wit ...."
-printf ".."
 sudo apt-get update -y -qq 
-printf ".."
 clear
 echo " ──────────────────────────────────────────────────────────────────────────────"
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
@@ -56,7 +54,7 @@ sudo apt autoremove -y -qq
 
 printf "~~"
 
-wget--progress=bar:force  http://luarocks.org/releases/luarocks-2.2.2.tar.gz &>/dev/null
+wget  http://luarocks.org/releases/luarocks-2.2.2.tar.gz 
 clear
 echo " ──────────────────────────────────────────────────────────────────────────────"
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
@@ -91,7 +89,7 @@ cd ..
 
 rm -rf luarocks-2*
 
-wget --progress=bar:force https://valtman.name/files/telegram-bot-170904-nightly-linux &>/dev/null
+wget https://valtman.name/files/telegram-bot-170904-nightly-linux
 
 printf "~~"
 
@@ -295,8 +293,6 @@ echo "│                        Channel : t.me/botlua                          
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 
 echo "Done install"
-
-rm -fr install.sh
 
 ./runAU
 
