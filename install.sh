@@ -1,6 +1,6 @@
 #!/bin/bash
 cd td 
-sudo apt-get -f install -y --qq
+sudo apt-get -f install -y 
 echo "wit ...."
 sudo apt-get update -y -qq 
 clear
