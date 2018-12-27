@@ -8,14 +8,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 
 sudo apt-get install git screen redis-server shc lua5.2 liblua5.2-dev lua-lgi libnotify-dev unzip tmux -y -qq 
@@ -28,14 +28,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~"
 
@@ -61,14 +61,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~"
 
@@ -108,14 +108,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install luasocket
@@ -124,14 +124,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install luasec
@@ -140,14 +140,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install redis-lua
@@ -156,14 +156,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install lua-term
@@ -172,14 +172,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install serpent
@@ -188,14 +188,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install dkjson
@@ -204,14 +204,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install lanes
@@ -220,14 +220,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo luarocks install Lua-cURL
@@ -236,14 +236,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 sudo service redis-server start
@@ -257,14 +257,14 @@ echo " ────────────────────────�
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
 
@@ -281,20 +281,20 @@ chmod +x run
 chmod +x runAU
 
 ./fix.sh 
-
+      
 clear
 echo " ──────────────────────────────────────────────────────────────────────────────"
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
 echo "                                                                               "
 echo "┌─────────────────────────────────────────────────────────────────────────────┐"
-echo "│                                                                             │"
-echo '│ m    m        #                                                             │'
-echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm  │'
-echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  # │'
-echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #"""" │'
-echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm" │'
-echo "│                                                                             │"
-echo "│                        Channel : t.me/botlua                                │"
+echo "│                                                                                   │"
+echo '│ m    m        #                                                                   │'
+echo '│ #  m"   mmm   #   m   mmm           mmm    mmm   m   m   m mm   mmm    mmm        │'
+echo '│ #m#    #"  #  # m"   #" "#         #   "  #" "#  #   #   #"  " #"  "  #"  #       │'
+echo '│ #  #m  #""""  #"#    #   #          """m  #   #  #   #   #     #      #""""       │'
+echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  "#mm"       │'
+echo "│                                                                                   │"
+echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 
 echo "Done install"
