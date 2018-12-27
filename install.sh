@@ -1,4 +1,5 @@
 #!/bin/bash
+cd td 
 sudo apt-get -f install -y --qq
 echo "wit ...."
 sudo apt-get update -y -qq 
@@ -54,7 +55,7 @@ sudo apt autoremove -y -qq
 
 printf "~~"
 
-wget  http://luarocks.org/releases/luarocks-2.2.2.tar.gz 
+wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz 
 clear
 echo " ──────────────────────────────────────────────────────────────────────────────"
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
@@ -71,13 +72,15 @@ echo "│                        Channel : t.me/botlua                          
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
 printf "~~~~~~~~~~~~~~"
 
-tar zxpf luarocks-2.2.2.tar.gz &>/dev/null
+tar zxpf luarocks-2.2.2.tar.gz 
 
 rm luarocks-2.2.2.tar.gz
 
 cd luarocks-2.2.2
 
-./configure; sudo make bootstrap &>/dev/null
+./configure
+
+sudo make bootstrap 
 
 printf "~~"
 
@@ -93,9 +96,11 @@ wget https://valtman.name/files/telegram-bot-170904-nightly-linux
 
 printf "~~"
 
-mv telegram-bot-170904-nightly-linux telegram-bot; chmod +x telegram-bot
+mv telegram-bot-170904-nightly-linux telegram-bot
 
-rm -fr telegram-bot-170904-*
+chmod +x telegram-bot
+
+rm -fr telegram-bot-170904-nightly-linux
 
 printf "~~"
 clear
