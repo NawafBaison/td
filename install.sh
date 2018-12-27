@@ -1,5 +1,5 @@
 #!/bin/bash
-$(tput setaf 2)
+sudo apt-get -f install
 echo "wit ...."
 printf ".."
 sudo apt-get update -y -qq 
