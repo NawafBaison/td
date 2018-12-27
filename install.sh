@@ -33,7 +33,6 @@ tar zxpf luarocks-2.2.2.tar.gz
 rm luarocks-2.2.2.tar.gz
 cd luarocks-2.2.2
 ./configure
-sudo make bootstrap 
 sudo make bootstrap
 cd ..
 rm -rf luarocks-2*
@@ -60,7 +59,9 @@ sudo chmod 777 fix.sh
 sudo chmod go-r keko.sh
 sudo chmod 777 run
 sudo chmod 777 runAU
-./fix.sh 
+
+sudo ./fix.sh 
+
 clear
 echo " ──────────────────────────────────────────────────────────────────────────────"
 echo "            Devloper : t.me/HHHHD | My Channel : t.me/botlua                   "
