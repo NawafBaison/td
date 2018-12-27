@@ -1,6 +1,6 @@
 #!/bin/bash
 cd td 
-sudo apt-get -f install 
+sudo apt-get -f install -y
 echo "wit ...."
 sudo apt-get update -y 
 clear
@@ -17,15 +17,19 @@ echo '│ #   "m "#mm"  #  "m  "#m#"         "mmm"  "#m#"  "mm"#   #     "#mm"  
 echo "│                                                                                   │"
 echo "│                        Channel : t.me/botlua                                      │"
 echo "└─────────────────────────────────────────────────────────────────────────────┘"
-sudo apt-get install git screen redis-server shc lua5.2 liblua5.2-dev lua-lgi libnotify-dev unzip tmux 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev 
+sudo apt-get install git screen redis-server shc lua5.2 liblua5.2-dev lua-lgi libnotify-dev unzip tmux -y
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev -y
+
+
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test  
-sudo apt-get update 
-apt-get upgrade 
-sudo apt-get install libconfig++9v5 libstdc++6 
-sudo apt autoremove 
+
+
+sudo apt-get update -y
+apt-get upgrade -y
+sudo apt-get install libconfig++9v5 libstdc++6 -y
+sudo apt autoremove -y
 wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz 
-tar zxpf luarocks-2.2.2.tar.gz 
+tar zxpf luarocks-2.2.2.tar.gz
 rm luarocks-2.2.2.tar.gz
 cd luarocks-2.2.2
 ./configure
